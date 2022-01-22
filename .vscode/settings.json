@@ -1,0 +1,26 @@
+{
+  "search.exclude": {
+    "**/node_modules": true
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "[typescript]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[typescriptreact]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "css.validate": false,
+  "tailwindCSS.includeLanguages": { "plaintext": "javascript" },
+  "editor.rulers": [80],
+  "importSorter.importStringConfiguration.maximumNumberOfImportExpressionsPerLine.type": "newLineEachExpressionAfterCountLimit",
+  "importSorter.importStringConfiguration.maximumNumberOfImportExpressionsPerLine.count": 100,
+  "importSorter.importStringConfiguration.tabSize": 2,
+  "importSorter.importStringConfiguration.trailingComma": "multiLine",
+  "importSorter.importStringConfiguration.hasSemicolon": false,
+  "importSorter.generalConfiguration.sortOnBeforeSave": true,
+  "importSorter.importStringConfiguration.spacingPerImportExpression.afterStartingBracket": 1,
+  "importSorter.importStringConfiguration.spacingPerImportExpression.beforeEndingBracket": 1,
+  "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
+  "cSpell.words": ["beakyn", "juanpujol", "preconnect"],
+  "typescript.tsdk": "node_modules/typescript/lib"
+}

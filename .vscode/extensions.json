@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "oouo-diogo-perdigao.docthis",
+    "mike-co.import-sorter",
+    "heybourn.headwind",
+    "bradlc.vscode-tailwindcss"
+  ]
+}
