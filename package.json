@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "jp-remix-template",
+  "name": "remix-template",
   "description": "My opinionated Remix template",
   "license": "MIT",
   "scripts": {
